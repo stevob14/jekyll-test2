@@ -201,6 +201,7 @@ exclude:
   - Dockerfile
   
 assets:
+  compression: false
   sources:
     - node_modules/uswds/dist/img
     - node_modules/uswds/dist/js
